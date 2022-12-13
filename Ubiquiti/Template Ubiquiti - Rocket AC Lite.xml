@@ -452,7 +452,6 @@
                     <inventory_link>0</inventory_link>
                     <applications/>
                     <valuemap>
-                        <name>Service state</name>
                     </valuemap>
                     <logtimefmt/>
                 </item>
